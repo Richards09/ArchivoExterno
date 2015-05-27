@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Archivos Ext</string>
+    <string name="mensaje1">Escribe algo</string>
+    <string name="action_settings">Settings</string>
+    <string name="guardar">Guardar</string>
+    <string name="Abrir">Abrir</string>
+</resources>
